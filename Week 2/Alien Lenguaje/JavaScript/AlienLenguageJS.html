@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Alien Lenguaje</title>
+</head>
+<body>
+<h1>Input the Alien Lenguage File to be Processed</h1>
+	<input type="file" name="file" id="file">
+	<script type="text/javascript">
+		document.getElementById('file').onchange = function(){
+		  var file = this.files[0];
+		  var reader = new FileReader();
+		  reader.onload = function(loadend){
+		    var lines = this.result.split('\n');
+		    var lex_wrd_pat = lines[0].split(" ");	
+		    var counter = 0;	
+
+		    for(var i = 0 , pattern = parseInt(lex_wrd_pat[1])+1; i < parseInt(lex_wrd_pat[2]); i++, pattern++){
+		    	let pats = [];
+		    	pats[i] = lines[pattern];
+		    	var tempPattern = new RegExp(pats[i].replace(/\(/g,"([").replace(/\)/g, "])"));
+		  		for(var j = 0 ; j < parseInt(lex_wrd_pat[1]); j++){
+		  			let words = [];
+		  			words[j] = lines[j+1];
+			  		if (tempPattern.test(words[j]))
+						counter++;
+		  		}
+		  		console.log("Case #"+(i+1)+":"+" "+counter);
+		  		counter = 0;
+		    } 
+
+		  };
+		  reader.readAsText(file);
+		};
+	</script>
+</body>
+</html>

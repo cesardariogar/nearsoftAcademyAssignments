@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Reverse Words</title>
+</head>
+<body>
+	<h1>Input the Reverse Words File to be Processed</h1>
+	<input type="file" name="file" id="file">
+	
+	<script type="text/javascript">
+		document.getElementById('file').onchange = function(){
+		var file = this.files[0];
+		var reader = new FileReader();
+			reader.onload = function(loadend){
+				var lines = this.result.split('\n');
+				for(var i = 1; i < lines.length-1; i++){
+					let tempStr = lines[i].split(" ").reverse().join(" ");
+					console.log("Case #"+i+": "+tempStr);
+				}
+		    };
+			reader.readAsText(file);
+		};
+	</script>
+
+</body>
+</html>

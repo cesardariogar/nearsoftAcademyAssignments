@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Store Credit</title>
+</head>
+<body>
+<h1>Input the Credit and Products list File to be Processed</h1>
+	<input type="file" name="file" id="file">
+	<script type="text/javascript">
+		document.getElementById('file').onchange = function(){
+		  //Opens a File
+		  var file = this.files[0];
+		  var reader = new FileReader();
+		  reader.onload = function(loadend){ //File ready to be used.
+		    var lines = this.result.split('\n'); //Split file into lines.
+		    for(var i = 0, c = 1; i < (parseInt(lines.length)-2); i++){		//Read line by line
+		    		var Credit = lines[i];									//Variables
+		    		var Items  = lines[i+1];			
+		    		var Prices = lines[i+2].split(" ");					
+		    		for(var index1 = 0; index1 < Prices.length; index1++){  //Read each "ItemPrice" in the array "Prices"
+		    			if(parseInt(Prices[index1]) < parseInt(Credit)){	//if "ItemPrice" is less than Credit then "Index1" is set up.
+		    				for(var index2 = (index1+1); index2 < Prices.length; index2++){		//Read the rest of "ItemPrices" to find a Match.
+		    					if((parseInt(Prices[index1])+parseInt(Prices[index2]) == parseInt(Credit)) && (index1 !== index2)){ //Validation
+		    						if(index1 < index2)  //Print the smallest index 
+		    							console.log("Case #"+(c++)+": "+(index1+1)+" "+(index2+1));
+		    						else
+										console.log("Case #"+(c++)+": "+(index2+1)+" "+(index1+1));
+		    					}
+		    				}
+		    			}
+		    		}		   		
+		   	}
+		  };
+		  reader.readAsText(file);
+		};
+	</script>
+</body>
+</html>
