@@ -1,18 +1,17 @@
 ##Nearsoft Academy
-##Week # 2
-##Code Jam (3 Problems)
-##Video Reviews (11)
-##Cesar Dario Garcia Jimenez (Internship)
-##cgarcia@nearsoft.com
+**Week # 2**  
+**Code Jam (3 Problems)**  
+**Video Reviews (11)**  
+**Cesar Dario Garcia Jimenez (Internship)**  
+**cgarcia@nearsoft.com**  
 
 ****************************************************************************************************************
 
 ##Video No.1  
 
-
-**“The Myth of the Genius Programmer”**  
-(by Brian Fitzpatrick and  Ben Collins-Sussman at Google I/O 2009)  
-  
+##“The Myth of the Genius Programmer”  
+(by Brian Fitzpatrick and  Ben Collins-Sussman at Google I/O 2009)    
+    
 
 This presentation speaks up things that a lot of people think and feel but not many talks openly about it in professional environments, this presentation speaks of how insecurity in professional environments affects performance. Software developers are humans and we may feel insecure about our performance in work from time to time, and it is natural and it is OK.
 Sometimes inside the software developer groups can exist different behaviors like elitism or being territorial about someone's code and this commonly leads organizations to be unhealthy and to have insecure or unhappy people inside of it, software developers are people and people often will learn, think and feel different from each other and also people have different skills and weaknesses, and they may grow up in different directions at different speed and perhaps in a different time.
@@ -23,9 +22,8 @@ We are recommended to be more open to show our code and work and to maintain an 
 
 ##Video No.2  
   
-
-**“#perfmatters: Tooling techniques for the performance ninja ”**  
-(by Colt McAnlis  at Chrome Dev Summit on 2013)  
+##“#perfmatters: Tooling techniques for the performance ninja ”  
+(by Colt McAnlis  at Chrome Dev Summit on 2013)    
   
 Colt McAnlis exposes why performance in Mobile and Web development matters (a lot).
 Internet has come to revolutionize almost every aspect of human life, it has change the way we communicate, and among other things, it has come to change the way we do business. People understood that the reach of the Internet can make your business be reachable for almost every place in the world, so almost every business has created a website to provide information about their products or to sell something, and a lot of people are buying over there, that means websites represent money.
@@ -42,12 +40,10 @@ Compute: as in the the render pillar, technologies for processing your website d
 The performance of your website is vital for success, each time a user leaves your website for not having good performance you losses money.
   
 ##Video No.3.1  
-
   
-**“Variable Length Codes (Ep 1, Compressor Head) ”**  
-(by Colt McAnlis from Google Ddevelopers on 2014)  
+##“Variable Length Codes (Ep 1, Compressor Head) ”    
+(by Colt McAnlis from Google Ddevelopers on 2014)    
 
-  
   
 As the Internet became more popular, people started to share gigantic amount of information, so in order to get this huge amount of information running over a limited set of resources computer scientist from late 70's have been utilizing compression to effectively reduce the size of this content and prevent the Internet from coming to a standstill.
 Variable length codes is a method to reduce the amount of bits needed to transmit information, this takes us to encoding and decoding methods over data transmitions, for example in modern computation we use bytes to encode alphabets which is a fixed 8 bit pattern, this is nice but not optimum because maybe there are other ways to represent the same alphabet using variable length codes, now this represent a challenge because when you start creating your encoding method you start with only two values which are 0's and 1's, so if you want to represent a large alphabet you may have problems figuring out how to actually decrypt and know what letter you are sending, because it is common for a letter sequence to exists inside of another larger one, so how do you know when to decide what letter you are encoding and decoding.
@@ -60,9 +56,9 @@ This leave us with a good start to think about new methods for improve performan
 
 ##Video No.3.2
   
-**“The LZ77 Compression Family (Ep 2, Compressor Head) ”**
-(by Colt McAnlis from Google Ddevelopers on 2014)  
-  
+##“The LZ77 Compression Family (Ep 2, Compressor Head)”    
+(by Colt McAnlis from Google Ddevelopers on 2014)   
+   
   
 This videos reveal us the leading family in the data compression methods, The Lempel-Ziv family.  
   
@@ -78,9 +74,8 @@ This is a very revealing story about data compression.
 
 ##Video No.3.3
   
-  
-**“Markov Chain Compression (Ep 3, Compressor Head) ”**
-(by Colt McAnlis from Google Ddevelopers on 2014)  
+##“Markov Chain Compression (Ep 3, Compressor Head) ”  
+(by Colt McAnlis from Google Ddevelopers on 2014)    
   
   
 Markov Chains Compression is the at the cutting edge of compression algorithms. These algorithms take makes use of artificial intelligence to compress by allowing the encoder and decoder to predict what data is coming next.
@@ -92,8 +87,8 @@ This is a very interesting algorithm to keep studying for a better comprehension
 ##Video No.4
   
   
-**“The Art of Organizational Manipulation”**
-(by Brian Fitzpatrick and Ben Collins-Sussman on Google I/O,  2012)  
+##“The Art of Organizational Manipulation”  
+(by Brian Fitzpatrick and Ben Collins-Sussman on Google I/O,  2012)    
   
   
 The presentations speaks of the possible perspective for a company to have:  
@@ -105,9 +100,8 @@ Trust is the key in here, it make members of an organization to start acting, th
 
 ##Video No.5
   
-  
-**“Programming Well with Others: Social Skills for Geeks”**
-(by Brian Fitzpatrick and Ben Collins-Sussman on Google I/O,  2011)  
+##“Programming Well with Others: Social Skills for Geeks”  
+(by Brian Fitzpatrick and Ben Collins-Sussman on Google I/O,  2011)    
 
   
 This presentation show us why it is important to develop soft skills for working in the Software Development industry, because hard skills are not sufficient if you want to achieve big things, because collaboration with others is key for that.
@@ -119,7 +113,7 @@ The presentation proposes to threat your employees different, motivate them to k
 ##Video No.6
 
   
-**“Developing-Expertise”**
+##“Developing-Expertise”  
 (by Dave Thomas on  2008)  
   
   
@@ -134,9 +128,9 @@ To encourage people is better to give freedom to take decisions and not limit th
   
 ##Video No.7
 
-**“CouchDB and Me”**   
-(by Damien Katz on  2009)  
-  
+##“CouchDB and Me”  
+(by Damien Katz on  2009)    
+    
 
 This is the story of how couchDB was developed, told by his creator Damien Katz. CouchDB is an open source database that uses different technologies (JSON to store data, javascript as querys, http as an API).
   
@@ -153,8 +147,8 @@ Then he receive an email from IBM wanted to hire him. And they told him they wer
 ##Video No.8
 
 
-**“Perfection is an unrealistic goal”**
-(by Linda Rising on  2009)  
+##“Perfection is an unrealistic goal”  
+(by Linda Rising on  2009)    
   
 
 The challenge of being agile. The best way to work as an individuals. The main things I learned fro this talk is about the importance of working taking breaks each certain time. You become more productive when you work straight for like 90 min, and then take a 20 min break. This is because our brain is designed to work in cycles, and this happens both when we are asleep and when we are awake, working.
@@ -176,8 +170,8 @@ The final quote she says is that perfection is in unrealistic. Improvement is mo
 
 ##Video No.9
   
-“The Power of an Agile Mindset”
-(by Linda Rising on 2015)  
+##“The Power of an Agile Mindset”  
+(by Linda Rising on 2015)    
   
   
 Wonderful and motivating speech for those who think they can't do better, at any moment of your life, you can!!!.
@@ -200,8 +194,8 @@ Personally I feel very identified with what this video is about, I recognize tha
 
 ##Video No.10
   
-**“Collaboration, Bonobos and The Brain”**
-(by Linda Rising on 2007)  
+##“Collaboration, Bonobos and The Brain”  
+(by Linda Rising on 2007)    
 
 This presentation is an interview with Linda Rising, and she talks about behavioral patterns inside teams.
   
@@ -218,7 +212,7 @@ This is one scientific aspect behind the success of Agile methodologies.
 
 ##Video No.11
 
-**“Prejudices Can Alter Team Work”**
+##“Prejudices Can Alter Team Work”  
 (by Linda Rising on 2008)  
 
   
