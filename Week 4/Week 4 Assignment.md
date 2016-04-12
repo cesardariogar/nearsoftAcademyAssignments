@@ -1,18 +1,18 @@
 ##Nearsoft Academy
-##Week #4
-##Video Reviews (12)
-##Cesar Dario Garcia Jiménez (Nearsoft Academy)
-##cgarcia@nearsoft.com
+**Week #4**  
+**Video Reviews (12)**  
+**Cesar Dario Garcia Jiménez (Nearsoft Academy)**  
+**cgarcia@nearsoft.com**  
 
 ********************************************************************************************************************
 
 ##1st Video
-**“Programming the Universe”**
-Author: Seth Lloyds   
+##“Programming the Universe”  
+Author: Seth Lloyds    
 (2012)  
 url: https://www.youtube.com/watch?v=I47TcQmYyo4   
 Programming the universe is a lecture from the professor Seth Lloyd to  explain how the universe is computing data since the beginning of it existence, everything including us is the result of this computing, and now we are trying to understand what is going on over those processes and how can we interact (perhaps to say how can we hack) with the information of the universe that is already there.
-Personal Thoughts:  
+Personal Thoughts:    
 So, programming the universe?yes.  
 Scientists and Physics are now understanding (in part at least) how particles behave and react to their stimulus in the most microscopic world we know so far that is the Quantum World, that means that we can program the littlest pieces of physical matter (densities of energy) to store or process information in the way we want, even while it behaves in a weird way to understand.11
 The thing is that we are not “creating” those behaviors in the matter, matter itself is the result of the “universe program” that starts running in the beginning of our known time, and is up to us how are we going to use this information and what are we going to do with it.
@@ -20,8 +20,8 @@ By the way...It is funny to hear Sith Lord (Seth Lloyd) talk about the power of 
 (It's a joke).  
   
 ##2nd Video
-**“Quantum Machine Learning ”**
-Author: Seth Lloyd  
+##“Quantum Machine Learning ”  
+Author: Seth Lloyd    
 (2014)  
 url: https://www.youtube.com/watch?v=wkBPp9UovVU   
 What I've learned on this:  
@@ -30,7 +30,7 @@ Quantum Mechanics in relation to machine learning presents such a powerful conce
 In short what I learned in here is that since both, QM and Machine Learning works by calculating vectors, you map and migrate your algorithms from classic computation to Quantum computation.
   
 ##3rd Video
-**“Richard Feynman, The Great Explainer: Great Minds”**
+##“Richard Feynman, The Great Explainer: Great Minds”  
 Author: SciShow  
 (2013)  
 url: https://www.youtube.com/watch?v=JIJw3OLB9sI   
@@ -38,7 +38,7 @@ I loved this video, it is a short description of Richard Feynman, one of the mos
 The curious thing about his description is that he was not only a remarkable mathematician, but he also was a whole personality, he was something you normally won't expect from a science man, as the description explains he regularly do math on strip clubs and play bongos there as well, he used to practice jokes over his fellows in places that one normally would not even think to do and this is inspiring because it is a reminder to not judge anyone by their appearance or personality.
   
 ##4th Video
-**“Computing a theory of everything ”**
+##“Computing a theory of everything ”  
 Author:  Stephen Wolfram  
 (2010)  
 url: https://www.youtube.com/watch?v=60P7717-XOQ   
@@ -53,7 +53,7 @@ I would investigate more over these kinds of work because I am personally intere
   
   
 ##5th Video
-**“Feynman and Computation”**  
+##“Feynman and Computation”  
 Author:  Tony Hey  
 (2011)  
 
@@ -65,7 +65,7 @@ He designed the foundations for parallel processing computing called pipeline wh
 I agree with Feynman on the need of Quantum computers to experiment and calculate phenomenon that occurred on the quantum world or in the abstract world in like mathematics and many others, still there is a lot of work to do over this fields because right now is still too expensive and too complex to build, experiment and understand those phenomenon without being a physicist or a mathematician, perhaps classic computing improve more and more into its interface for delivering the knowledge and be able to learn more efficiently and take us one step forward in understanding and improving our current tools for understanding nature.
 
 ##6th Video
-**“Reminiscing about Richard Feynman ”**
+##“Reminiscing about Richard Feynman ”  
 Author:  Danny Hillis   
 (2011)  
   
@@ -80,7 +80,7 @@ Personally thinking of death is emotionally very uncomfortable to me, I have a l
   
 
 ##7th Video
-**“Feynman on Scientific Method”**
+##“Feynman on Scientific Method”  
 Author:  Richard Feynman  
 (date unknown)  
 url: https://www.youtube.com/watch?v=EYPapE-3FRw   
@@ -93,7 +93,7 @@ We have to keep in mind that even when we create experiments to prove certain th
   
 
 ##8th Video  
-**“Tools for Continuous Integration at Google Scale ”**
+##“Tools for Continuous Integration at Google Scale ”  
 Author:  John Micco  
 (2012)  
 url: https://www.youtube.com/watch?v=KH2_sB1A6lA  
@@ -137,7 +137,7 @@ Google measure the rate of success or failures of every test run, so they can fo
   
 
 ##9th Video
-**“The Release Process for Google's Chrome for iOS”**
+##“The Release Process for Google's Chrome for iOS”  
 Author:  Ivan Ho & Lindsay Pasricha   
 (2014)  
 url: https://www.youtube.com/watch?v=p9bEc6oC6vw  
@@ -156,7 +156,7 @@ They implements release automation, testing automation but some manual tests are
 Lindsay Pasricha Google has a set of channels managed by bots to do automatic tests over those channels, they run unit testings, performance testings, and screenshots testings, this channels exists to test software of different phases (beta, experimental, releases, etc), in addition sometimes it is needed to run manual tests when some automated test isn't implemented yet or when some technical debt is acquired.
   
 ##10th Video  
-**“I Don't Test Often ... But When I Do, I Test in Production”**
+##“I Don't Test Often ... But When I Do, I Test in Production”  
 Author:  Gareth Bowles   
 (2014)  
 url: https://www.youtube.com/watch?v=xkP70Zhhix4  
@@ -187,7 +187,7 @@ This kind of liberty incentives the teams to design to avoid failure from the be
 This kind of liberty and responsibility is great but because people make it great, I know we at Nearsoft work under the same principle which is something new for me, so I hope I can learn from this philosophy and be a useful element for the team, the company and the world in general.
   
 ##11th Video  
-**“Test coverage at Google”**  
+##“Test coverage at Google”  
 Author:  Andrei Chirila   
 (2014)  
 url: https://www.youtube.com/watch?v=4bublRBCLVQ  
@@ -219,7 +219,7 @@ What does this mean?
 Google has collected coverage related data to ensure champion code and they have developed an optional system to apply Test coverage to their projects.  
   
 ##12th Video
-**“The Testing User Experience”**
+##“The Testing User Experience”  
 Author:  Alex Eagle  
 (2014)  
 url: https://www.youtube.com/watch?v=J7c0Bw840X8  
