@@ -197,23 +197,24 @@ Learnings:
 The test coverage is important because it is the way to ensure that new things don't broke what you already have and the dependencies you have must not be affected.
 Test Coverage at Google starts with:  
   
-Code Reviews (At google it gets done as):  
-Reviews before check-ins.  
-Web Based.  
-Streamlined.  
-Small, incremental changes.  
-Mandatory.  
-Enforced by tools.  
-Automated analysis.  
-Fully automatized.  
-Style Guide compliance  
-Do the tests pass?  
-Fast  
-Types of Test Coverage:  
-Function (Was a particular function called?)  
-Statement (Was a particular line of code executed?)  
-Branch (Was an edge in the program executed?)  
-Other (Increasingly expensive to calculate...)  
+**Code Reviews (At google it gets done as):**    
+-Reviews before check-ins.  
+-Web Based.  
+	*Streamlined.  
+	*Small, incremental changes.  
+-Mandatory.  
+	*Enforced by tools.  
+-Automated analysis.  
+	*Fully automatized.  
+	*Style Guide compliance  
+	*Do the tests pass?  
+	*Fast  
+-Types of Test Coverage:  
+	*Function (Was a particular function called?)  
+	*Statement (Was a particular line of code executed?)  
+	*Branch (Was an edge in the program executed?)  
+	*Other (Increasingly expensive to calculate...)    
+	  
 Test coverage is optional at Google so not all the projects that are under development implements Test Coverage, the percentage of projects that do implements it is the 85%, but Google does aim to achieve the test coverage for 99% of the projects under dev.  
 What does this mean?  
 Google has collected coverage related data to ensure champion code and they have developed an optional system to apply Test coverage to their projects.  
