@@ -1,16 +1,16 @@
 ##Nearsoft Academy
-##Week #3
-##Lectures (8)
-##Video Reviews (12)
-##Cesar Dario Garcia Jiménez (Nearsoft Academy)
-##cgarcia@nearsoft.com
+**Week #3**  
+**Lectures (8)* 
+**Video Reviews (12)* 
+**Cesar Dario Garcia Jiménez (Nearsoft Academy)**  
+**cgarcia@nearsoft.com**  
 *******************************************************************************************************************
 
 ##1st Video
-**“Pale Blue Dot”**
-Author: Carl Sagan  
-(1994)  
-  
+##“Pale Blue Dot”  
+Author: Carl Sagan   
+(1994)   
+   
 Pale blue dot is a reflection made by Carl Sagan about a picture of the earth made from 3.7 billion miles from a spacecraft called “the voyager”, which he written on a book on 1994. 
 This is a reflection to put in perspective all our issues as humans and realize that we are part of something so much bigger, somethimes we live our complete existence without realizing that many of our issues are trivial to the big picture of things, but yet they are so meaningful to us in the little scope. 
 What i think?  
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=BTiZD7p_oTc
 
 ##2nd Video
 
-**“Learn MapReduce with Playing Cards ”**
+##“Learn MapReduce with Playing Cards ”  
 Author: Jesse Anderson  
 (2003)  
 
@@ -33,7 +33,7 @@ I found interesting how you can organize several processors to work as a cluster
 
 ##3rd Video
 
-**“Machine Learning: The Basics”**
+##“Machine Learning: The Basics”  
 Author: Ron Bekkerman   
 (2012)  
   
@@ -46,7 +46,7 @@ Perhaps he also should show us some of the mathematical algorithms used in ML ju
  
 ##4th Video
 
-***“Fast Company Exclusive: Inside Google X”**
+##*“Fast Company Exclusive: Inside Google X”  
 Author: The team at Google X   
 (2014)  
   
@@ -58,7 +58,7 @@ I feel very excited about this video and what those guys do, it is amazing, but 
 
 
 ##5th Video
-**“Moonshot Thinking”**
+##“Moonshot Thinking”  
 Author: Google X   
 (2013)  
 
@@ -78,7 +78,7 @@ I think that, this is an opportunity field to do more research and maybe come wi
   
 
 ##7th Video  
-**“La mejor presentación de tu vida ”**
+##“La mejor presentación de tu vida ”  
 (2013)  
 
 This is a very entertaining presentation in where we found a lot of great tools for delivering an excelent presentation. The presenter share to us a toolbox of elements to include in our presentations to make them effective and entertaining.
@@ -102,7 +102,7 @@ While doing this, what should I focus on?
 Objective (Your Idea or thesis)		Emotional Rythm to keep them on.  
  
 ##8th Video
-**“Leading”**
+##“Leading”  
 By:  Marshall Goldsmith  
 (2007)  
   
@@ -134,7 +134,7 @@ And just as a reminder of good habits I leave here a list:
 
 
 ##9th Video  
-**“Google and NASA's Quantum Artificial Intelligence Lab”**
+##“Google and NASA's Quantum Artificial Intelligence Lab”  
 By: Google  
 (2013)  
 
@@ -149,7 +149,7 @@ Quantum Computation is one of the most exciting areas in develop in which we are
 
 
 ##10th Video
-**“Dr Quantum - Double Slit Experiment ”**  
+##“Dr Quantum - Double Slit Experiment ”  
 (2006)  
 
 The Double Slit ExperimentIs a very famous experiment in which phycisists shoot electrons or photons to a wall with two slits, and they try to determine why particles baheve sometimes as a particle and sometimes as a wave.
@@ -166,7 +166,7 @@ https://www.youtube.com/watch?v=emgcyOMoL_c
 
 
 ##11th Video
-**“Measure for Measure: Quantum Physics and Reality”**  
+##“Measure for Measure: Quantum Physics and Reality”  
 By:  David Z. Albert, Sean Carroll, Sheldon Goldstein and Ruediger Schack  
 (2014)  
 When no one is looking, a particle has near limitless potential: it can be nearly anywhere. But measure it, and the particle snaps to one position. How do subatomic objects shed their quantum weirdness? Experts in the field of physics, including David Z. Albert, Sean Carroll, Sheldon Goldstein, Ruediger Schack, and moderator Brian Greene, discuss the history of quantum mechanics, current theories in the field, and possibilities for the future.
@@ -179,7 +179,7 @@ The main point in here is that, we are in the middle of the developing of Quantu
   
 
 ##12th Video  
-**“The Quantum Conspiracy: What Popularizers of QM Don't Want You to Know”**
+##“The Quantum Conspiracy: What Popularizers of QM Don't Want You to Know”  
 11By:  Dr. Ron Garret   
 (2011)  
   
@@ -191,7 +191,7 @@ Personally I disagree with the inferences from the author because even though he
 
 
 ##1st Lecture  
-“Creating a User-Based Recommender in 5 minutes”  
+##“Creating a User-Based Recommender in 5 minutes”  
 From: http://mahout.apache.org/users/recommender/userbased-5-minutes.html  
   
 What I learned?  
@@ -199,8 +199,8 @@ Well I didn't know anything about Mahout libraries and Maven and it is very inte
   
 Still I have to read and learn more from it, I found this information very useful for future projects.
   
-2nd Lecture  
-“Test Driven Development”  
+##2nd Lecture    
+##“Test Driven Development”   
 From: http://c2.com/cgi/wiki?TestDrivenDevelopment  
   
 What I learned?  
@@ -209,17 +209,17 @@ I never heard of this approach before in university (it's so wrong I know), and 
 What are the strongs points on this approach?  
 As the lecture explain, when you define what you want to do, you first figure out how would you test that piece of software, that implies that you understand very well what the requirements are and then when you write your functional code, you are doing it more aware of the requirements and of course by testing that piece you can assure a level of quality that is very desirable for any project.
 
-##3rd Lecture  
-**“UnitTest”**  
+##3rd Lecture    
+##“UnitTest”   
 From: http://martinfowler.com/bliki/UnitTest.html  
 
-What I learned?  
+What I learned?    
   
 Well it is interesting to read from the experience about unit testing, in here the writter Martin Fowler explain to us how some things have change in recent times, and some tips over how me should always test and why it is important to test.
 He mention during the lecture an interesting approach that he takes which is the “SelfTestingCode” which is about writing comprehensive automated in conjunction with the functional softwares, this idea enforces the previos lecture in this document, about the Test Driven Development, I will learn more over this topic to be able to implement this kind of practices into my work.
 
 ##4th Lecture
-**“XUnit”**
+##“XUnit”  
 From: http://martinfowler.com/articles/mocksArentStubs.html  
 
 What I learned?  
@@ -259,7 +259,7 @@ I still dont understand all the terms used in the lecture because I haven done a
   
 
 ##6th Lecture
-**“Java Build Tools: How Dependency Management Works with Maven, Gradle and Ant + Ivy”**  
+##“Java Build Tools: How Dependency Management Works with Maven, Gradle and Ant + Ivy”  
 From:http://zeroturnaround.com/rebellabs/java-build-tools-how-dependency-management-works-with-maven-gradle-and-ant-ivy/
   
 What I learned?  
@@ -267,7 +267,7 @@ This is a recent practice for creating and documenting java projects without hav
 They work differently at managing packages though so will be reading more on this very soon.
   
 ##7th Lecture  
-“6 Top .NET Package- and Dependency-Management Tools”  
+##“6 Top .NET Package- and Dependency-Management Tools”   
 From:https://visualstudiomagazine.com/articles/2014/03/01/6-top-net-package-and-dependency-management-tools.aspx  
   
 What I learned?  
@@ -280,8 +280,8 @@ Chocolatey NuGet, not so bigger like the others before but Chocolatey is a gener
 Ninite is not a open source focused tool, so you can't provide your own packages to repository, but it allows to get the latest version of the apps.
 .NET better known as the “dark side” among some of my developer fellows, is doing a great job to compete with the open source developing tools that are allowing more people to collaborate and work on great projects, I hope we learn how to get the best of all this tools to create great things.
   
- 8th Lecture  
-**“What is the difference between Bower and npm?”**  
+##8th Lecture    
+##“What is the difference between Bower and npm?”  
 From:http://stackoverflow.com/questions/18641899/what-is-the-difference-between-bower-and-npm  
 
 What I learned?  
