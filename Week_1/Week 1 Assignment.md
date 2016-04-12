@@ -1,15 +1,15 @@
-# Nearsoft Academy
-### Week #1 
-### Lectures (3)
-### Video Reviews (10)
-### Cesar Dario Garcia Jiménez (Nearsoft Academy)
-### cgarcia@nearsoft.com
+###Nearsoft Academy**  
+**Week #1 **  
+**Lectures (3)**  
+**Video Reviews (10)**  
+**Cesar Dario Garcia Jiménez (Nearsoft Academy)**  
+**cgarcia@nearsoft.com**  
 
 ***************************************************************************************************************************
-## 1st Lecture
-## The Ten Myths of Innovation: The best summary 
-**Author: Scott Berkun**
-(March, 2013)
+## 1st Lecture  
+##The Ten Myths of Innovation: The best summary   
+Author: Scott Berkun  
+(March, 2013)  
 
 This article summarizes in ten myths the things that Scott Berkun wish to have learned about “big ideas” before he started 
 his career.  
@@ -46,9 +46,9 @@ http://www.amazon.com/dp/1449389627/ref=cm_sw_su_dp
  
 ## 2nd Lecture
 
-## Resonate
-## Present visual stories that transform audiencies
-**Author: Nancy Duarte**
+##Resonate  
+##Present visual stories that transform audiencies    
+Author: Nancy Duarte  
 
 Resonate is an inspiring and disruptive book explaining how to improve our channels of communication, the author explains how to present information in a more dynamic and creative way in order to keep getting the attention of your receptor when you have to send a message to an audience.
 As the book explains, we have to keep looking for ways to present the information we want to send because humans tend to familiarize pretty quick with the always new ways of how information is presented and the problem with this is that we keep assisting to meetings, conferences, forums,etc. That makes everybody feel bored, and to feel like a waste of time, while this kind of events pretend to be the contrary to that, that is motivating and entertaining.
@@ -95,8 +95,8 @@ Ideas are potent and you imagination can create reality.
   
 ## 3rd Lecture
 
-## What are the most profound life lessons from stanford professor John Ousterhound?
-
+##What are the most profound life lessons from stanford professor John Ousterhound?  
+  
 Every friday proffesor John Ousterhound takes 15 minutes to share his life lessons to the class and here they are some good lessons:
 
 **Number 1:**  
@@ -176,11 +176,11 @@ Stay ready for change anytime it is necessary and keep adopting good practices a
 The statement “I was born this way” is false and you may not be perfect but certainly you are perfectible, evolve yourself every day.
   
 
-##1th Video
+##1th Video  
 
   
-**“The Pretotyping Manifesto - Stanford Graduate School of Business“**  
-(By Alberto Savoia at Stanford Graduate School of Business.   
+##“The Pretotyping Manifesto - Stanford Graduate School of Business“  
+(By Alberto Savoia at Stanford Graduate School of Business.     
 January 2012.)  
 The Pretotyping manifesto is a revolutionary approach to effectively give life to new ideas.
 First things first, as we all  have the best insterest in changing the world, sometimes we came up with a “really god idea”, but in reality the vast majority of ideas wont succeed in becoming a useful reality as we planned, so why does this happen?
@@ -190,11 +190,13 @@ The data for measure the succeed of the innovation process states that you have 
 **1. Try Fast and**  
 **2. Fail Fast.**  
 In order to succeed more quickly and in a cheaper way.  
-There are some other things you need to be carefull with:  
-Opinions are subjective and dangerous.  
-Make sure yo uare building the right “it” before you built “it”.  
+
+There are some other things you need to be carefull with:   
+-Opinions are subjective and dangerous.   
+-Make sure yo uare building the right “it” before you built “it”.  
+
 How you succeed those obstacles and how you have to take the next step:  
-Successful Ideas must find balance between   
+-Successful Ideas must find balance between   
 -Vision  
 -Ideas  
 -Opinions  
@@ -219,10 +221,10 @@ And based on that and the data for measuring and planning the succeed of the inn
 If you want to give life to an idea, first you have to prove that people would use it, and how cheap and fast you iterate through this process will lead you to succeed more quickly.
 
 
-#2nd Video  
+##2nd Video    
   
-**“Inbox Zero”**
-(By Merlin Mann at Google Talks
+##“Inbox Zero”  
+(By Merlin Mann at Google Talks  
 July 23, 2007)
 
 The video called Inbox Zero reveals an important thing that can kill your productivity and that it your email inbox, the modern personal and proffesional life demands an extensive use of the email and Merlin Mann shares to us how he manages this situation.
@@ -235,7 +237,7 @@ Be proactive at managing the action of your life and boost your productivity.
   
 ## 3rd Video  
   
-**“The Birth & Death of JavaScript” ** 
+##“The Birth & Death of JavaScript” 
 (By Gary Bernhardt from PyCon 2014)   
 This presentations exposes how the design flaws inside Javascript will eventually lead that lenguaje to death despite his tremendous popularity, it is the most used programming lenguaje in present but will it survive through time?
 Gary Bernhardt does a remarkable job trying to predict why this lenguaje will eventually die, because it depends on a lot of other technology structures that are changing.
@@ -245,8 +247,8 @@ And so we will have to see how the future of this wide used technology goes.
 
 ## 4th Video
   
-**“Tokens, Pariahs, and Pioneers ”  **
-(By Malcolm Gladwell, The New Yorker Festival, 2013)   
+##“Tokens, Pariahs, and Pioneers ”    
+(By Malcolm Gladwell, The New Yorker Festival, 2013)     
   
 The pressentation of Malcolm Gladwell reveals in a coherent way how some of the social phenomenon has been molding modern society and try to make a disctintion over Pariahs, Tokens and Pioneers.
 Malcolm show us by constrasting different examples in history how society has changed by the Pioneers who create a door to include a certain minority into bigger groups and change that society forever.
@@ -256,7 +258,7 @@ Why pioneers accomplish that change, because of the way of how pioneers think an
 
 ##5th Video  
   
-**“Choice, happiness and spaghetti sauce”**  
+##“Choice, happiness and spaghetti sauce”  
 (By Malcolm Gladwell, TED Talks, 2007)   
   
 Choice, Happiness and Spaguetti sauce is a story to teach us how the creator of the “Extra Chunky” spaguetti sauce Howard Moskowits revolution the way in wich how the food industry and de industry in general thought about market and the people choices.
@@ -267,8 +269,8 @@ People dont know what they want, but if you give them a democracy of choices you
   
 ## 6th Video  
   
-**“The unheard story of David and Goliath”**  
-(By Malcolm Gladwell, TED Talks, 2013)   
+##“The unheard story of David and Goliath”  
+(By Malcolm Gladwell, TED Talks, 2013)     
   
 The story of David and Goliath is a widespread story from the bible that relates how a young man fights and defeat a giant, in this presentation Malcolm Gladwell told how he understand the story based on his discoveries, but while he tell us the story let us to learn a very valuable lesson.
 The story holds a lot of mysticism but Malcolm is able to bring that story to the ground and let us see as a clear example one of the most important characteristics that a man can have in order to fight obstacles, and that is the wit.
@@ -277,7 +279,7 @@ Dont underestimate your wit to accomplish big things and dont be afraid of “gi
   
 ## 7th Video  
   
-**“Jonathan Haidt: Religion, evolution, and the ecstasy of self-transcendence”**  
+##“Jonathan Haidt: Religion, evolution, and the ecstasy of self-transcendence”  
 (By Jonathan Haidt, TED Talks, 2014)   
   
 Great presentation from Jonathan Haidt, he boards one of the most important aspect in humans lives and how evolution has the evidence to prove what is the way for humans to grow and survive.
@@ -290,13 +292,13 @@ There is no other more powerfull force than cooperation, and when we understand 
 
 ## 8th Video
   
-**“The Myths of Innovation ”**  
+##“The Myths of Innovation ”
 (By Scott Berkun, Carnegie Mellon University,  2008)   
   
-**See “Lecture 1”.**  
+##See “Lecture 1”  
 
 ## 9th Video  
-**“Creative Thinking Hacks ”**  
+##“Creative Thinking Hacks ”  
 (By Scott Berkun, CreativeMornings Seattle,  2013)   
   
 Creative Thinking Hacks is a presentation to encourage people to be creative and to think different about the creativity.
@@ -305,7 +307,7 @@ Creativity it one of the most important aspects for us to transcend problems and
 If you want to change the world first you have to have an idea and we all have the capacity to do it so dont be afraid and never ever let your enviroment to kill your creativity.
   
 ##10th Video  
-**“How Progress Really Happend”**
+##“How Progress Really Happend”  
 (By Scott Berkun, Tools of Change conference,  2009)   
   
 How progress really happened is a question that a lot a people has done to theirselves and cience and history has reveal some interesting facts about it.
