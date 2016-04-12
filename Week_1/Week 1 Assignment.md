@@ -1,9 +1,9 @@
-###Nearsoft Academy**  
-**Week #1 **  
-**Lectures (3)**  
-**Video Reviews (10)**  
-**Cesar Dario Garcia Jiménez (Nearsoft Academy)**  
-**cgarcia@nearsoft.com**  
+###Nearsoft Academy  
+**Week #1**  
+**Lectures (3)**    
+**Video Reviews (10)**    
+**Cesar Dario Garcia Jiménez (Nearsoft Academy)**    
+**cgarcia@nearsoft.com**    
 
 ***************************************************************************************************************************
 ## 1st Lecture  
